@@ -1,3 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
+<<<<<<< HEAD
 #empty
+=======
+one:
+  name: MyString
+  string: MyString
+  email: MyString
+
+two:
+  name: MyString
+  string: MyString
+  email: MyString
+>>>>>>> sign-up
